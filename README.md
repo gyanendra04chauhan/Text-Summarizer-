@@ -1,7 +1,7 @@
 # Text-Summarizer-
 AI-powered text summarization application using a pretrained Transformer model with Hugging Face Transformers and FastAPI.
 # Text Summarizer
-
+LIVE DEMO -http://127.0.0.1:8000
 An AI-powered text summarization application that generates concise summaries from long text using a **pretrained Transformer model** from Hugging Face.
 
 The application is built with **Python, Hugging Face Transformers, PyTorch, and FastAPI**.
